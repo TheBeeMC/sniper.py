@@ -2,6 +2,13 @@
 
 Minecraft name sniper in Python. Discord bot integration soon. 
 
+# WARNING!
+This repository is inactive and archived. Please do not contact me about the code, as I am not actively developing it at the moment. I'll pick up the project again when I see fit.
+
+Thanks,
+
+Iliyan
+
 ### Installation
 1. `git clone` this repository. 
 2. `python3.5 sniper.py`
